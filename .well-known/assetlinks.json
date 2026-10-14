@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.hazmat_card",
+        "sha256_cert_fingerprints": ["D0:8F:EC:0F:5B:4D:13:53:D6:48:87:11:31:C8:75:8F:D9:F1:33:3C:16:B8:7C:C2:23:FC:D6:A6:99:D5:6C:29"]
+      }
+    }]
